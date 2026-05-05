@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>202605051114194O3X74</value>
+    <value>202605051356053RPVFT</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260505111419OFDRJ9</value>
+    <value>20260505135605SUOU2M</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -24,7 +24,17 @@
 <odeProperties>
   <odeProperty>
     <key>pp_title</key>
-    <value>Contamos lo que vivimos</value>
+    <value>Mi día favorito</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>En esta actividad vas a aprender a contar experiencias de tu vida cotidiana.
+
+Vas a compartir con tus compañeros y compañeras un día especial para ti.
+
+¿Qué vas a crear?
+- Una infografía sobre tu día favorito
+- Un vídeo contando tu experiencia</value>
   </odeProperty>
   <odeProperty>
     <key>pp_lang</key>
@@ -48,7 +58,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1777972454752</value>
+    <value>1777980290247</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -81,21 +91,25 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>fedbb408-d82c-4bba-abe6-5a41e994dd35</odePageId>
+  <odePageId>7fefcf40-e899-4a70-91a2-1f04441b35ce</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>Página nueva</pageName>
+  <pageName>Sesión 1: Contamos experiencias</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Página nueva</value>
+      <value>Sesión 1: Contamos experiencias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 1: Contamos experiencias</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>fedbb408-d82c-4bba-abe6-5a41e994dd35</odePageId>
-      <odeBlockId>block-1777971656566-ay0rtc224</odeBlockId>
-      <blockName>Texto</blockName>
+      <odePageId>7fefcf40-e899-4a70-91a2-1f04441b35ce</odePageId>
+      <odeBlockId>block-1777980348957-v61gwdw4y</odeBlockId>
+      <blockName>Sesión 1: Contamos experiencias</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -122,23 +136,24 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>fedbb408-d82c-4bba-abe6-5a41e994dd35</odePageId>
-          <odeBlockId>block-1777971656566-ay0rtc224</odeBlockId>
-          <odeIdeviceId>idevice-1777971656564-s7fe0e0us</odeIdeviceId>
+          <odePageId>7fefcf40-e899-4a70-91a2-1f04441b35ce</odePageId>
+          <odeBlockId>block-1777980348957-v61gwdw4y</odeBlockId>
+          <odeIdeviceId>idevice-1777980348955-yr9832s93</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <ul>
-<li>Descripción de la SdA<br />El alumnado de 1º de Primaria trabajará la expresión oral y escrita a partir de experiencias cercanas. Aprenderán a contar hechos de su vida cotidiana organizando ideas sencillas y comunicándolas a sus compañeros y compañeras.<br /><br /></li>
-<li>Etapa y nivel<br />Educación Primaria – 1º curso<br /><br /></li>
-<li>Área<br />Lengua Castellana y Literatura<br /><br /></li>
-<li>Agrupamientos y espacios<br />Se trabajará de forma individual, en parejas, en pequeño grupo y en gran grupo, favoreciendo distintas formas de participación. Los espacios serán el aula, la biblioteca de aula y espacios comunes del centro.<br /><br /></li>
-<li>Temporalización<br />8 sesiones de 45 minutos<br /><br /></li>
-<li>Productos del alumnado<br />- Infografía: "Mi día favorito"<br />- Vídeo corto narrando su experiencia.<br /><br /></li>
-<li>Herramientas<br />- Papel y lápiz<br />- Canva<br />- Genially<br />- Tablet o cámara<br /><br /></li>
-<li>Recursos<br />- Cuentos infantiles<br />- Imágenes secuenciadas<br />- Vídeos de narración</li>
+    <p>Hoy vamos a comenzar nuestra situación de aprendizaje.</p>
+<p>En esta sesión vamos a contar experiencias que nos han pasado en nuestra vida cotidiana.</p>
+<ul>
+<li>ACTIVIDAD<br />Vas a participar en la asamblea de clase.<br />Cada alumno o alumna contará algo que le haya ocurrido, por ejemplo:<br />- Un día en el parque<br />- Un cumpleaños<br />- Una excursión<br />- Una actividad especial</li>
+</ul>
+<p>Escucha con atención a tus compañeros y compañeras cuando hablen.</p>
+<ul>
+<li>OBJETIVO<br />Aprender a expresarnos oralmente de forma clara y respetar los turnos de palabra.<br /><br /></li>
+<li>JUEGO DE REPASO<br />Responde en clase: ¿Qué significa contar una experiencia?<br />No es inventar una historia, es contar algo que me ha pasado a mí o a otra persona real<br /><br /></li>
+<li>RECUERDA<br />Es importante hablar despacio, con frases sencillas y escuchar a los demás.</li>
 </ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777971656564-s7fe0e0us","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Descripción de la SdA<br />El alumnado de 1º de Primaria trabajará la expresión oral y escrita a partir de experiencias cercanas. Aprenderán a contar hechos de su vida cotidiana organizando ideas sencillas y comunicándolas a sus compañeros y compañeras.<br /><br /></li>\n<li>Etapa y nivel<br />Educación Primaria – 1º curso<br /><br /></li>\n<li>Área<br />Lengua Castellana y Literatura<br /><br /></li>\n<li>Agrupamientos y espacios<br />Se trabajará de forma individual, en parejas, en pequeño grupo y en gran grupo, favoreciendo distintas formas de participación. Los espacios serán el aula, la biblioteca de aula y espacios comunes del centro.<br /><br /></li>\n<li>Temporalización<br />8 sesiones de 45 minutos<br /><br /></li>\n<li>Productos del alumnado<br />- Infografía: \"Mi día favorito\"<br />- Vídeo corto narrando su experiencia.<br /><br /></li>\n<li>Herramientas<br />- Papel y lápiz<br />- Canva<br />- Genially<br />- Tablet o cámara<br /><br /></li>\n<li>Recursos<br />- Cuentos infantiles<br />- Imágenes secuenciadas<br />- Vídeos de narración</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777980348955-yr9832s93","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hoy vamos a comenzar nuestra situación de aprendizaje.</p>\n<p>En esta sesión vamos a contar experiencias que nos han pasado en nuestra vida cotidiana.</p>\n<ul>\n<li>ACTIVIDAD<br />Vas a participar en la asamblea de clase.<br />Cada alumno o alumna contará algo que le haya ocurrido, por ejemplo:<br />- Un día en el parque<br />- Un cumpleaños<br />- Una excursión<br />- Una actividad especial</li>\n</ul>\n<p>Escucha con atención a tus compañeros y compañeras cuando hablen.</p>\n<ul>\n<li>OBJETIVO<br />Aprender a expresarnos oralmente de forma clara y respetar los turnos de palabra.<br /><br /></li>\n<li>JUEGO DE REPASO<br />Responde en clase: ¿Qué significa contar una experiencia?<br />No es inventar una historia, es contar algo que me ha pasado a mí o a otra persona real<br /><br /></li>\n<li>RECUERDA<br />Es importante hablar despacio, con frases sencillas y escuchar a los demás.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -148,20 +163,20 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1777971744605-2gmlrfvau</odePageId>
-  <odeParentPageId>fedbb408-d82c-4bba-abe6-5a41e994dd35</odeParentPageId>
-  <pageName>Intención educativa</pageName>
+  <odePageId>page-1777980780501-7o8xlziwx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 2: Ordenamos ideas</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Intención educativa</value>
+      <value>Sesión 2: Ordenamos ideas</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1777971744605-2gmlrfvau</odePageId>
-      <odeBlockId>block-1777972243863-n8h4zips7</odeBlockId>
+      <odePageId>page-1777980780501-7o8xlziwx</odePageId>
+      <odeBlockId>block-1777980782653-ch83rcnm3</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
@@ -189,18 +204,21 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1777971744605-2gmlrfvau</odePageId>
-          <odeBlockId>block-1777972243863-n8h4zips7</odeBlockId>
-          <odeIdeviceId>idevice-1777972243861-dptn4nwyy</odeIdeviceId>
+          <odePageId>page-1777980780501-7o8xlziwx</odePageId>
+          <odeBlockId>block-1777980782653-ch83rcnm3</odeBlockId>
+          <odeIdeviceId>idevice-1777980782652-hwyfw4b85</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <ul>
-<li>Justificación<br />El desarrollo del lenguaje en 1º de Educación Primaria es fundamental para el aprendizaje global del alumnado. Esta situación de aprendizaje permite trabajar la expresión oral y escrita a partir de experiencias cercanas y significativas.<br /><br /></li>
-<li>Impacto esperado<br />- Mejora de la expresión oral<br />- Desarrollo inicial de la escritura<br />- Aumento de la seguridad al comunicarse<br /><br /></li>
-<li>Relación con los ODS<br />- ODS 4: Educación de calidad<br />- ODS 3: Bienestar</li>
+    <p>Hoy vamos a aprender a organizar nuestras ideas para contar mejor una experiencia.</p>
+<ul>
+<li> EXPLICACIÓN<br />Cuando contamos algo, es importante hacerlo en orden: <br />- Primero<br />- Después<br />- Al final<br /><br /></li>
+<li>ACTIVIDAD<br />Te voy a dar unas imágenes de una historia. Debes ordenarlas correctamente para que tengan sentido. Después, explica en voz alta qué ocurre en cada parte.<br /><br /></li>
+<li>OBJETIVO<br />Aprender a ordenar ideas para poder contar historias de forma clara.<br /><br /></li>
+<li>EJEMPLO<br />Primero: me levanto<br />Después: desayuno<br />Al final: voy al colegio<br /><br /></li>
+<li>RECUERDA<br />Si las ideas están ordenadas, es más fácil que los demás te entiendan.</li>
 </ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777972243861-dptn4nwyy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Justificación<br />El desarrollo del lenguaje en 1º de Educación Primaria es fundamental para el aprendizaje global del alumnado. Esta situación de aprendizaje permite trabajar la expresión oral y escrita a partir de experiencias cercanas y significativas.<br /><br /></li>\n<li>Impacto esperado<br />- Mejora de la expresión oral<br />- Desarrollo inicial de la escritura<br />- Aumento de la seguridad al comunicarse<br /><br /></li>\n<li>Relación con los ODS<br />- ODS 4: Educación de calidad<br />- ODS 3: Bienestar</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777980782652-hwyfw4b85","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hoy vamos a aprender a organizar nuestras ideas para contar mejor una experiencia.</p>\n<ul>\n<li> EXPLICACIÓN<br />Cuando contamos algo, es importante hacerlo en orden: <br />- Primero<br />- Después<br />- Al final<br /><br /></li>\n<li>ACTIVIDAD<br />Te voy a dar unas imágenes de una historia. Debes ordenarlas correctamente para que tengan sentido. Después, explica en voz alta qué ocurre en cada parte.<br /><br /></li>\n<li>OBJETIVO<br />Aprender a ordenar ideas para poder contar historias de forma clara.<br /><br /></li>\n<li>EJEMPLO<br />Primero: me levanto<br />Después: desayuno<br />Al final: voy al colegio<br /><br /></li>\n<li>RECUERDA<br />Si las ideas están ordenadas, es más fácil que los demás te entiendan.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -210,20 +228,20 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1777971760333-cotk4hzbt</odePageId>
-  <odeParentPageId>fedbb408-d82c-4bba-abe6-5a41e994dd35</odeParentPageId>
-  <pageName>Elementos curriculares</pageName>
+  <odePageId>page-1777980911637-161qvokyd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 3: Escribimos frases</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Elementos curriculares</value>
+      <value>Sesión 3: Escribimos frases</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1777971760333-cotk4hzbt</odePageId>
-      <odeBlockId>block-1777972319662-dat925se9</odeBlockId>
+      <odePageId>page-1777980911637-161qvokyd</odePageId>
+      <odeBlockId>block-1777980914686-mrgc6yebp</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
@@ -251,19 +269,22 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1777971760333-cotk4hzbt</odePageId>
-          <odeBlockId>block-1777972319662-dat925se9</odeBlockId>
-          <odeIdeviceId>idevice-1777972319661-onyb6jfd8</odeIdeviceId>
+          <odePageId>page-1777980911637-161qvokyd</odePageId>
+          <odeBlockId>block-1777980914686-mrgc6yebp</odeBlockId>
+          <odeIdeviceId>idevice-1777980914684-jf407rwd9</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <ul>
-<li>Competencias clave<br />- Competencia en comunicación lingüística<br />- Competencia personal, social y de aprender a aprender<br /><br /></li>
-<li>Competencias específicas<br />- Expresarse oralmente de forma comprensible en situaciones cercanas<br />- Comprender mensajes orales sencillos<br />- Iniciarse en la producción de textos escritos simples<br /><br /></li>
-<li>Saberes básicos<br />- Vocabulario de la vida cotidiana<br />- Secuenciación de ideas<br />- Escritura de frases simples<br /><br /></li>
-<li>Criterios de evaluación<br />- Expresa ideas de forma comprensible<br />- Participa en situaciones comunicativas<br />- Produce textos breves con apoyo<br /></li>
+    <p>Hoy vamos a aprender a escribir frases sencillas sobre nuestras experiencias.</p>
+<ul>
+<li>EXPLICACIÓN<br />Después de contar y ordenar nuestras ideas, vamos a escribirlas. Es importante usar frases cortas y claras.<br /><br /></li>
+<li>ACTIVIDAD<br />Escribe 2 o 3 frases sobre tu día favorito o una experiencia que te guste.<br />Puedes ayudarte con estas ideas:<br />- Qué hiciste<br />- Con quién estabas<br />- Por qué te gustó<br /><br /></li>
+<li>EJEMPLO<br />- Fui al parque con mi familia.<br />- Jugamos mucho y me lo pasé muy bien.<br /><br /></li>
+<li>ENTREGA<br />Escribe tus frases en tu cuaderno o en Microsoft OneNote, si tu profesor o profesora lo indica.<br /><br /></li>
+<li>OBJETIVO<br />Iniciarnos en la escritura de textos sencillos sobre experiencias personales.<br /><br /></li>
+<li>RECUERDA<br />No pasa nada si te equivocas, lo importante es intentarlo.</li>
 </ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777972319661-onyb6jfd8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Competencias clave<br />- Competencia en comunicación lingüística<br />- Competencia personal, social y de aprender a aprender<br /><br /></li>\n<li>Competencias específicas<br />- Expresarse oralmente de forma comprensible en situaciones cercanas<br />- Comprender mensajes orales sencillos<br />- Iniciarse en la producción de textos escritos simples<br /><br /></li>\n<li>Saberes básicos<br />- Vocabulario de la vida cotidiana<br />- Secuenciación de ideas<br />- Escritura de frases simples<br /><br /></li>\n<li>Criterios de evaluación<br />- Expresa ideas de forma comprensible<br />- Participa en situaciones comunicativas<br />- Produce textos breves con apoyo<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777980914684-jf407rwd9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hoy vamos a aprender a escribir frases sencillas sobre nuestras experiencias.</p>\n<ul>\n<li>EXPLICACIÓN<br />Después de contar y ordenar nuestras ideas, vamos a escribirlas. Es importante usar frases cortas y claras.<br /><br /></li>\n<li>ACTIVIDAD<br />Escribe 2 o 3 frases sobre tu día favorito o una experiencia que te guste.<br />Puedes ayudarte con estas ideas:<br />- Qué hiciste<br />- Con quién estabas<br />- Por qué te gustó<br /><br /></li>\n<li>EJEMPLO<br />- Fui al parque con mi familia.<br />- Jugamos mucho y me lo pasé muy bien.<br /><br /></li>\n<li>ENTREGA<br />Escribe tus frases en tu cuaderno o en Microsoft OneNote, si tu profesor o profesora lo indica.<br /><br /></li>\n<li>OBJETIVO<br />Iniciarnos en la escritura de textos sencillos sobre experiencias personales.<br /><br /></li>\n<li>RECUERDA<br />No pasa nada si te equivocas, lo importante es intentarlo.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -273,20 +294,20 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1777971772845-sa8gyx9vi</odePageId>
-  <odeParentPageId>fedbb408-d82c-4bba-abe6-5a41e994dd35</odeParentPageId>
-  <pageName>Metodología</pageName>
+  <odePageId>page-1777981147703-magoak1jg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 4: Creamos la infografía</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Metodología</value>
+      <value>Sesión 4: Creamos la infografía</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1777971772845-sa8gyx9vi</odePageId>
-      <odeBlockId>block-1777972371735-285ehmnr4</odeBlockId>
+      <odePageId>page-1777981147703-magoak1jg</odePageId>
+      <odeBlockId>block-1777981149973-eixiv8xni</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
@@ -314,15 +335,23 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1777971772845-sa8gyx9vi</odePageId>
-          <odeBlockId>block-1777972371735-285ehmnr4</odeBlockId>
-          <odeIdeviceId>idevice-1777972371734-9vgqjm783</odeIdeviceId>
+          <odePageId>page-1777981147703-magoak1jg</odePageId>
+          <odeBlockId>block-1777981149973-eixiv8xni</odeBlockId>
+          <odeIdeviceId>idevice-1777981149972-rc01mq5s5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Se utilizará una metodología activa basada en experiencias cercanas al alumnado, fomentando la participación, el aprendizaje cooperativo y la creación de productos significativos.</p>
-<p>Se favorecerán distintos agrupamientos para atender a la diversidad del aula.</p>
+    <p>Hoy vamos a empezar a crear nuestra infografía sobre nuestro día favorito.</p>
+<ul>
+<li>EXPLICACIÓN<br />Una infografía es una forma de mostrar información de manera visual, con imágenes y frases cortas.<br /><br /></li>
+<li>ACTIVIDAD<br />Vamos a diseñar una infografía titulada: “Mi día favorito”<br />Debe incluir:<br />- Un título<br />- Imágenes<br />- Frases sencillas sobre lo que hiciste ese día<br /><br /></li>
+<li>HERRAMIENTAS<br />Puedes usar:<br />- Canva<br />- Genially<br /><br /></li>
+<li>ENTREGA<br />Cuando termines, la subirás a Microsoft Teams o al espacio indicado por el docente.<br /><br /></li>
+<li>EVALUACIÓN <br />Esta actividad será evaluada con una rúbrica. Se tendrá en cuenta:<br />- Claridad del contenido<br />- Uso de imágenes<br />- Orden y presentación<br />- Capacidad de expresión escrita<br /><br /></li>
+<li>OBJETIVO<br />Aprender a comunicar información de forma visual y clara.<br /><br /></li>
+<li>RECUERDA<br />La infografía es uno de los productos finales de esta situación de aprendizaje.</li>
+</ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777972371734-9vgqjm783","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se utilizará una metodología activa basada en experiencias cercanas al alumnado, fomentando la participación, el aprendizaje cooperativo y la creación de productos significativos.</p>\n<p>Se favorecerán distintos agrupamientos para atender a la diversidad del aula.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777981149972-rc01mq5s5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hoy vamos a empezar a crear nuestra infografía sobre nuestro día favorito.</p>\n<ul>\n<li>EXPLICACIÓN<br />Una infografía es una forma de mostrar información de manera visual, con imágenes y frases cortas.<br /><br /></li>\n<li>ACTIVIDAD<br />Vamos a diseñar una infografía titulada: “Mi día favorito”<br />Debe incluir:<br />- Un título<br />- Imágenes<br />- Frases sencillas sobre lo que hiciste ese día<br /><br /></li>\n<li>HERRAMIENTAS<br />Puedes usar:<br />- Canva<br />- Genially<br /><br /></li>\n<li>ENTREGA<br />Cuando termines, la subirás a Microsoft Teams o al espacio indicado por el docente.<br /><br /></li>\n<li>EVALUACIÓN <br />Esta actividad será evaluada con una rúbrica. Se tendrá en cuenta:<br />- Claridad del contenido<br />- Uso de imágenes<br />- Orden y presentación<br />- Capacidad de expresión escrita<br /><br /></li>\n<li>OBJETIVO<br />Aprender a comunicar información de forma visual y clara.<br /><br /></li>\n<li>RECUERDA<br />La infografía es uno de los productos finales de esta situación de aprendizaje.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -332,20 +361,20 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1777971824549-u4o9706oh</odePageId>
-  <odeParentPageId>fedbb408-d82c-4bba-abe6-5a41e994dd35</odeParentPageId>
-  <pageName>Vinculación con el centro</pageName>
+  <odePageId>page-1777981371350-wl3sqsh4j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesión 5: Preparamos y grabamos el video</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Vinculación con el centro</value>
+      <value>Sesión 5: Preparamos y grabamos el video</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1777971824549-u4o9706oh</odePageId>
-      <odeBlockId>block-1777972407878-h0gq9o0ba</odeBlockId>
+      <odePageId>page-1777981371350-wl3sqsh4j</odePageId>
+      <odeBlockId>block-1777981373574-tmn91ibx6</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
@@ -373,15 +402,23 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1777971824549-u4o9706oh</odePageId>
-          <odeBlockId>block-1777972407878-h0gq9o0ba</odeBlockId>
-          <odeIdeviceId>idevice-1777972407877-0vnu7aw5c</odeIdeviceId>
+          <odePageId>page-1777981371350-wl3sqsh4j</odePageId>
+          <odeBlockId>block-1777981373574-tmn91ibx6</odeBlockId>
+          <odeIdeviceId>idevice-1777981373572-ttc2kvh18</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Esta situación de aprendizaje se relaciona con:</p>
-<p>- Plan de Lectura, Escritura e Investigación (PLEI)<br />- Plan de Atención a la Diversidad (PAD)<br />Contribuye al desarrollo de la competencia lingüística y a la atención a las necesidades del alumnado.</p>
+    <p>Hoy vamos a preparar y grabar un vídeo sobre nuestro día favorito.</p>
+<ul>
+<li>EXPLICACIÓN<br />Un vídeo nos ayuda a contar nuestras experiencias hablando y mostrando lo que hemos aprendido.<br /><br /></li>
+<li>ACTIVIDAD<br />Primero, vamos a preparar lo que vamos a decir:<br />- Qué hiciste en tu día favorito<br />- Con quién estabas<br />- Por qué te gustó<br />- Después, grabaremos un vídeo corto explicándolo.<br /><br /></li>
+<li>GRABACIÓN<br />Puedes grabarlo con una tablet, móvil o cámara del centro.<br /><br /></li>
+<li>ENTREGA<br />El vídeo se entregará en Microsoft Teams o en el espacio indicado por el docente.<br /><br /></li>
+<li>EVALUACIÓN (IMPORTANTE)<br />Este vídeo forma parte de la evaluación final de la situación de aprendizaje.<br />Se valorará:<br />- Si se entiende lo que explicas<br />- Si hablas de forma clara<br />- Si cuentas tu experiencia de forma ordenada<br />- La participación y esfuerzo<br /><br /></li>
+<li>OBJETIVO<br />Expresarnos oralmente de forma clara y segura.<br /><br /></li>
+<li>RECUERDA<br />No hace falta memorizar, puedes hablar de forma natural.</li>
+</ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777972407877-0vnu7aw5c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se relaciona con:</p>\n<p>- Plan de Lectura, Escritura e Investigación (PLEI)<br />- Plan de Atención a la Diversidad (PAD)<br />Contribuye al desarrollo de la competencia lingüística y a la atención a las necesidades del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777981373572-ttc2kvh18","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hoy vamos a preparar y grabar un vídeo sobre nuestro día favorito.</p>\n<ul>\n<li>EXPLICACIÓN<br />Un vídeo nos ayuda a contar nuestras experiencias hablando y mostrando lo que hemos aprendido.<br /><br /></li>\n<li>ACTIVIDAD<br />Primero, vamos a preparar lo que vamos a decir:<br />- Qué hiciste en tu día favorito<br />- Con quién estabas<br />- Por qué te gustó<br />- Después, grabaremos un vídeo corto explicándolo.<br /><br /></li>\n<li>GRABACIÓN<br />Puedes grabarlo con una tablet, móvil o cámara del centro.<br /><br /></li>\n<li>ENTREGA<br />El vídeo se entregará en Microsoft Teams o en el espacio indicado por el docente.<br /><br /></li>\n<li>EVALUACIÓN (IMPORTANTE)<br />Este vídeo forma parte de la evaluación final de la situación de aprendizaje.<br />Se valorará:<br />- Si se entiende lo que explicas<br />- Si hablas de forma clara<br />- Si cuentas tu experiencia de forma ordenada<br />- La participación y esfuerzo<br /><br /></li>\n<li>OBJETIVO<br />Expresarnos oralmente de forma clara y segura.<br /><br /></li>\n<li>RECUERDA<br />No hace falta memorizar, puedes hablar de forma natural.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -391,20 +428,20 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1777971796989-6eycm7y6o</odePageId>
-  <odeParentPageId>fedbb408-d82c-4bba-abe6-5a41e994dd35</odeParentPageId>
-  <pageName>Actividades</pageName>
-  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odePageId>page-1777981562710-j1e3wn3oc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUACIÓN</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Actividades</value>
+      <value>EVALUACIÓN</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1777971796989-6eycm7y6o</odePageId>
-      <odeBlockId>block-1777972416654-7ymegz3to</odeBlockId>
+      <odePageId>page-1777981562710-j1e3wn3oc</odePageId>
+      <odeBlockId>block-1777981564878-mb3wpxggp</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
@@ -432,14 +469,22 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1777971796989-6eycm7y6o</odePageId>
-          <odeBlockId>block-1777972416654-7ymegz3to</odeBlockId>
-          <odeIdeviceId>idevice-1777972416653-jxaf0pmnc</odeIdeviceId>
+          <odePageId>page-1777981562710-j1e3wn3oc</odePageId>
+          <odeBlockId>block-1777981564878-mb3wpxggp</odeBlockId>
+          <odeIdeviceId>idevice-1777981564877-ewaphhnuo</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>- Asamblea inicial para contar experiencias<br />- Ordenación de imágenes secuenciadas<br />- Escritura de frases simples<br />- Preparación y grabación del vídeo<br />- Creación de la infografía</p>
+    <ul>
+<li>¿CUÁNDO SE EVALÚA?<br />La evaluación se realiza a lo largo de toda la situación de aprendizaje:<br />- Durante las actividades de clase<br />- En la creación de la infografía<br />- En la grabación del vídeo final<br />- En la participación en clase<br /><br /></li>
+<li>¿QUÉ SE EVALÚA?<br />Se evaluarán los siguientes productos:<br />- Infografía “Mi día favorito”<br />- Vídeo sobre una experiencia personal<br /><br /></li>
+<li>CRITERIOS DE EVALUACIÓN<br />Se tendrá en cuenta si el alumnado:<br />- Expresa ideas de forma clara y comprensible<br />- Participa en situaciones comunicativas orales<br />- Produce frases y textos sencillos<br />- Organiza correctamente sus ideas<br />- Utiliza recursos digitales de forma básica<br /><br /></li>
+<li>INSTRUMENTOS DE EVALUACIÓN<br />Se utilizarán:<br />- Rúbrica para la infografía<br />- Rúbrica para el vídeo<br />- Lista de cotejo durante las actividades<br />- Observación directa del docente<br /><br /></li>
+<li> RÚBRICA<br />- Nivel alto: Expresa ideas claras, ordenadas y completas. Usa bien imágenes y lenguaje.<br />- Nivel medio: Expresa ideas comprensibles con algún apoyo.<br />- Nivel inicial: Necesita ayuda para expresar ideas o estructurarlas.<br /><br /></li>
+<li>MOMENTO DE ENTREGA<br />- Infografía → Sesión 4 (finalización y entrega)<br />- Vídeo → Sesión 5 (grabación y entrega final)<br /><br /></li>
+<li> CONCLUSIÓN<br />La evaluación tiene en cuenta todo el proceso de aprendizaje, no solo el resultado final, sino también el esfuerzo, la participación y la evolución del alumnado.</li>
+</ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777972416653-jxaf0pmnc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>- Asamblea inicial para contar experiencias<br />- Ordenación de imágenes secuenciadas<br />- Escritura de frases simples<br />- Preparación y grabación del vídeo<br />- Creación de la infografía</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777981564877-ewaphhnuo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>¿CUÁNDO SE EVALÚA?<br />La evaluación se realiza a lo largo de toda la situación de aprendizaje:<br />- Durante las actividades de clase<br />- En la creación de la infografía<br />- En la grabación del vídeo final<br />- En la participación en clase<br /><br /></li>\n<li>¿QUÉ SE EVALÚA?<br />Se evaluarán los siguientes productos:<br />- Infografía “Mi día favorito”<br />- Vídeo sobre una experiencia personal<br /><br /></li>\n<li>CRITERIOS DE EVALUACIÓN<br />Se tendrá en cuenta si el alumnado:<br />- Expresa ideas de forma clara y comprensible<br />- Participa en situaciones comunicativas orales<br />- Produce frases y textos sencillos<br />- Organiza correctamente sus ideas<br />- Utiliza recursos digitales de forma básica<br /><br /></li>\n<li>INSTRUMENTOS DE EVALUACIÓN<br />Se utilizarán:<br />- Rúbrica para la infografía<br />- Rúbrica para el vídeo<br />- Lista de cotejo durante las actividades<br />- Observación directa del docente<br /><br /></li>\n<li> RÚBRICA<br />- Nivel alto: Expresa ideas claras, ordenadas y completas. Usa bien imágenes y lenguaje.<br />- Nivel medio: Expresa ideas comprensibles con algún apoyo.<br />- Nivel inicial: Necesita ayuda para expresar ideas o estructurarlas.<br /><br /></li>\n<li>MOMENTO DE ENTREGA<br />- Infografía → Sesión 4 (finalización y entrega)<br />- Vídeo → Sesión 5 (grabación y entrega final)<br /><br /></li>\n<li> CONCLUSIÓN<br />La evaluación tiene en cuenta todo el proceso de aprendizaje, no solo el resultado final, sino también el esfuerzo, la participación y la evolución del alumnado.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -449,20 +494,20 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1777971840812-wv9a2hal8</odePageId>
-  <odeParentPageId>fedbb408-d82c-4bba-abe6-5a41e994dd35</odeParentPageId>
-  <pageName>Licencia</pageName>
+  <odePageId>page-1777981809022-34wdgee4h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DICCIONARIO DE TÉRMINOS</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Licencia</value>
+      <value>DICCIONARIO DE TÉRMINOS</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1777971840812-wv9a2hal8</odePageId>
-      <odeBlockId>block-1777972434648-xu519l5sh</odeBlockId>
+      <odePageId>page-1777981809022-34wdgee4h</odePageId>
+      <odeBlockId>block-1777981810590-y0jygz6vc</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
@@ -490,14 +535,92 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1777971840812-wv9a2hal8</odePageId>
-          <odeBlockId>block-1777972434648-xu519l5sh</odeBlockId>
-          <odeIdeviceId>idevice-1777972434646-cufivzsro</odeIdeviceId>
+          <odePageId>page-1777981809022-34wdgee4h</odePageId>
+          <odeBlockId>block-1777981810590-y0jygz6vc</odeBlockId>
+          <odeIdeviceId>idevice-1777981810589-rmqf54cl4</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Este recurso se comparte bajo licencia Creative Commons Reconocimiento-Compartir Igual 4.0.</p>
+    <p>Aquí puedes consultar algunas palabras importantes de esta situación de aprendizaje:</p>
+<ul>
+<li>EXPERIENCIA: Algo que te ha pasado en tu vida real.</li>
+<li>ORDENAR: Colocar las ideas en la secuencia correcta: primero, después y al final.</li>
+<li>FRASE: Un conjunto de palabras que expresan una idea.</li>
+<li>NARRAR: Contar una historia o experiencia.</li>
+<li>INFOGRAFÍA: Forma visual de mostrar información con imágenes y texto breve.</li>
+<li>VÍDEO: Grabación donde explicamos algo usando la voz y la imagen.</li>
+</ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777972434646-cufivzsro","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este recurso se comparte bajo licencia Creative Commons Reconocimiento-Compartir Igual 4.0.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777981810589-rmqf54cl4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí puedes consultar algunas palabras importantes de esta situación de aprendizaje:</p>\n<ul>\n<li>EXPERIENCIA: Algo que te ha pasado en tu vida real.</li>\n<li>ORDENAR: Colocar las ideas en la secuencia correcta: primero, después y al final.</li>\n<li>FRASE: Un conjunto de palabras que expresan una idea.</li>\n<li>NARRAR: Contar una historia o experiencia.</li>\n<li>INFOGRAFÍA: Forma visual de mostrar información con imágenes y texto breve.</li>\n<li>VÍDEO: Grabación donde explicamos algo usando la voz y la imagen.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777981965385-xu2pd1f8i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>REFLEXIÓN</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>REFLEXIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777981965385-xu2pd1f8i</odePageId>
+      <odeBlockId>block-1777981967870-rhp09d3oz</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777981965385-xu2pd1f8i</odePageId>
+          <odeBlockId>block-1777981967870-rhp09d3oz</odeBlockId>
+          <odeIdeviceId>idevice-1777981967869-o6vuu7zs9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Has terminado la situación de aprendizaje “Mi día favorito”.</p>
+<p> ¡Enhorabuena por tu trabajo!</p>
+<ul>
+<li> LO QUE HAS APRENDIDO<br />- A contar experiencias personales<br />- A organizar ideas en orden<br />- A escribir frases sencillas<br />- A crear una infografía<br />- A grabar un vídeo<br /><br /></li>
+<li>PRODUCTOS REALIZADOS<br />- Infografía: “Mi día favorito”<br />- Vídeo explicando una experiencia personal<br /><br /></li>
+<li>REFLEXIÓN FINAL<br />Piensa y responde:<br />- ¿Qué es lo que más te ha gustado?<br />- ¿Qué te ha resultado más fácil?<br />- ¿Qué te ha costado más?<br /><br /></li>
+<li>LICENCIA</li>
+</ul>
+<p>Este recurso se comparte bajo licencia: Creative Commons Reconocimiento-Compartir Igual 4.0</p>
+<ul>
+<li> DESCARGA DEL ARCHIVO</li>
+</ul>
+<p>Puedes descargar el archivo editable de esta situación de aprendizaje en formato .elp desde el enlace proporcionado por el docente.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777981967869-o6vuu7zs9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Has terminado la situación de aprendizaje “Mi día favorito”.</p>\n<p> ¡Enhorabuena por tu trabajo!</p>\n<ul>\n<li> LO QUE HAS APRENDIDO<br />- A contar experiencias personales<br />- A organizar ideas en orden<br />- A escribir frases sencillas<br />- A crear una infografía<br />- A grabar un vídeo<br /><br /></li>\n<li>PRODUCTOS REALIZADOS<br />- Infografía: “Mi día favorito”<br />- Vídeo explicando una experiencia personal<br /><br /></li>\n<li>REFLEXIÓN FINAL<br />Piensa y responde:<br />- ¿Qué es lo que más te ha gustado?<br />- ¿Qué te ha resultado más fácil?<br />- ¿Qué te ha costado más?<br /><br /></li>\n<li>LICENCIA</li>\n</ul>\n<p>Este recurso se comparte bajo licencia: Creative Commons Reconocimiento-Compartir Igual 4.0</p>\n<ul>\n<li> DESCARGA DEL ARCHIVO</li>\n</ul>\n<p>Puedes descargar el archivo editable de esta situación de aprendizaje en formato .elp desde el enlace proporcionado por el docente.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
